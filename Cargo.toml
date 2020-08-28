@@ -1,5 +1,5 @@
 [package]
-name = "earl-syntax"
+name = "earl-lang-syntax"
 version = "0.1.0"
 authors = ["Davíð Helgason <david@reiknir.it>"]
 edition = "2018"
